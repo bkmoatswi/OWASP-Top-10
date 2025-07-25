@@ -7,3 +7,11 @@ The objective of the room is to help learners understand and identify the most c
 ### Skills Gained
 
 Understanding common web vulnerabilities,vulnerability Identification and Explotation, and learned how to secure applications against vulnerabilities.
+
+### Achievement
+
+Sucessfully complteted OWASP Top 10 room.
+
+https://assets.tryhackme.com/room-badges/c10b5ed88ad3140f4f7acf5cb1cf50e1.png
+
+
