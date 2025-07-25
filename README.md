@@ -10,7 +10,7 @@ Understanding common web vulnerabilities,vulnerability Identification and Explot
 
 ### Achievement
 
-Sucessfully complteted OWASP Top 10 room.
+Sucessfully completed OWASP Top 10 room.
 
 https://assets.tryhackme.com/room-badges/c10b5ed88ad3140f4f7acf5cb1cf50e1.png
 
